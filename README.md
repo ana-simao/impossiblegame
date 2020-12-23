@@ -10,6 +10,8 @@ The aim of the game is to escape the room in which the game starts.
 The game provides some clues regarding the escape, so pay attention!
 Use the arrow keys to move around.
 
+# Technologies
+Java, SimpleGraphics library
 
 # Team
 André Duarte, Gonçalo Pereira dos Santos, Ana Simão, Diogo Raposo
